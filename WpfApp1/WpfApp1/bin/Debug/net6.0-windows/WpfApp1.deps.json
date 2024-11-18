@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "CustomColorDialog": "1.0.7797.38551",
+          "FileListBox": "1.1.0.0",
+          "FileListBoxControl": "1.0.0.0",
+          "GerberImageDrawingControl": "1.0.0.0",
+          "LibGerberVS": "1.2.0.0",
+          "Ruler": "2.1.7994.41246"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "CustomColorDialog/1.0.7797.38551": {
+        "runtime": {
+          "CustomColorDialog.dll": {
+            "assemblyVersion": "1.0.7797.38551",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FileListBox/1.1.0.0": {
+        "runtime": {
+          "FileListBox.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "FileListBoxControl/1.0.0.0": {
+        "runtime": {
+          "FileListBoxControl.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GerberImageDrawingControl/1.0.0.0": {
+        "runtime": {
+          "GerberImageDrawingControl.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LibGerberVS/1.2.0.0": {
+        "runtime": {
+          "LibGerberVS.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Ruler/2.1.7994.41246": {
+        "runtime": {
+          "Ruler.dll": {
+            "assemblyVersion": "2.1.7994.41246",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomColorDialog/1.0.7797.38551": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileListBox/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileListBoxControl/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerberImageDrawingControl/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibGerberVS/1.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruler/2.1.7994.41246": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
